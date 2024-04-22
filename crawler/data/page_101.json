@@ -1,0 +1,66 @@
+{
+    "link": "https://www.wikihow.com/Win-at-Connect-4",
+    "article": "Always Win at Connect 4: The Strategy That Will Keep You on Top",
+    "intro": "Connect 4 is a popular game with an unbeatable winning strategy. Learn that strategy and you'll win every game of Connect 4 you ever play—provided you make no mistakes. But nobody's perfect, and that's why people keep playing this deceptively challenging game. Read on to learn how to shock (or frustrate) your friends by becoming the master of Connect 4 strategy.",
+    "points": [
+        {
+            "name": "Starting the Game",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Play offensively rather than defensively whenever you can.",
+                    "subtitle": " Focus on making connections by placing your checkers close together in the center of the board. Block your opponent when you have to, but try not to get too caught up in defense.",
+                    "sub-points": [
+                        "As the second player, it's going to be tough for you to build much of an offense. But you still have a chance if the first player misses that key first move or makes some other mistake.",
+                        "If you're having trouble building up much of an offense, you could also try distracting your opponent or making comments to try to get in their head and get them flustered so they make a mistake."
+                    ]
+                },
+                {
+                    "step": "4",
+                    "title": "Play offensively rather than defensively whenever you can.",
+                    "subtitle": " Focus on making connections by placing your checkers close together in the center of the board. Block your opponent when you have to, but try not to get too caught up in defense.",
+                    "sub-points": [
+                        "As the second player, it's going to be tough for you to build much of an offense. But you still have a chance if the first player misses that key first move or makes some other mistake.",
+                        "If you're having trouble building up much of an offense, you could also try distracting your opponent or making comments to try to get in their head and get them flustered so they make a mistake."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Reading Your Opponent",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Block your opponent's checkers when they have 2 in a row.",
+                    "subtitle": " Putting one of your checkers next to your opponent's series of 2 means now they can only make a series of 4 in one direction. If you cut them off, they can't get 3 in a row and potentially trap you.",
+                    "sub-points": [
+                        "For example, if your opponent has 2 checkers lined up on the bottom row, go ahead and drop a checker on either end to close off at least one of their opportunities to build a threat. Then, if they put a third checker on the other side, you can easily block it."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Building Traps",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Create a \"7\" with your checkers for an unbeatable Connect 4 strategy.",
+                    "subtitle": " This is a strategy that you have to play out over multiple moves—while also watching your opponent's moves and blocking them where you need to. It's not at all easy to get this in place, but once you do, you've essentially won.",
+                    "sub-points": [
+                        "So, for example, you might have 3 checkers going up in a diagonal, and then at the top of the diagonal, you have 3 checkers horizontally. That gives you a diagonal and horizontal threat.",
+                        "With a 7 anywhere on the board (and turned in any direction), it's only a matter of time before your opponent is trapped in a situation where you have two game-winning spaces and they can only block one of them."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Create a \"7\" with your checkers for an unbeatable Connect 4 strategy.",
+                    "subtitle": " This is a strategy that you have to play out over multiple moves—while also watching your opponent's moves and blocking them where you need to. It's not at all easy to get this in place, but once you do, you've essentially won.",
+                    "sub-points": [
+                        "So, for example, you might have 3 checkers going up in a diagonal, and then at the top of the diagonal, you have 3 checkers horizontally. That gives you a diagonal and horizontal threat.",
+                        "With a 7 anywhere on the board (and turned in any direction), it's only a matter of time before your opponent is trapped in a situation where you have two game-winning spaces and they can only block one of them."
+                    ]
+                }
+            ]
+        }
+    ]
+}

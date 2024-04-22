@@ -1,0 +1,69 @@
+{
+    "link": "https://www.wikihow.com/Video-Call-on-Android-to-iPhone",
+    "article": "How to Video Call between an Android and iPhone: Step-by-Step Tutorial",
+    "intro": "If you want to video chat with a friend or coworker but you have an Android and they use an iPhone, do not despair, for there is hope! Video calling from Android to iPhone is not only possible but also quite simple—you can even use FaceTime if the iPhone user has iOS 15 or later. This wikiHow article will teach you how you can video chat with iPhone users when you have an Android.",
+    "points": [
+        {
+            "name": "FaceTime",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Tap the invitation link on the Android to join the call.Join",
+                    "subtitle": " Once you (the Android user) receive the invitation, tapping the link will prompt you to enter your name and select .  This connects you to the other person through FaceTime video chat.",
+                    "sub-points": [
+                        "You can tap  at any time to end the call."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Google Meet",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Press .",
+                    "subtitle": " This will immediately start the video call. Once you have added as many contacts or phone numbers as you'd like, you're ready to start the call! Everyone you invited to the video call will be notified of the call and will be able to join the call in their Google Meet apps.",
+                    "sub-points": [
+                        "If you're just calling one person, press the  or  button to start the call.",
+                        "You're ready to talk about business, work on a group project, or ."
+                    ]
+                },
+                {
+                    "step": "4",
+                    "title": "Press .",
+                    "subtitle": " This will immediately start the video call. Once you have added as many contacts or phone numbers as you'd like, you're ready to start the call! Everyone you invited to the video call will be notified of the call and will be able to join the call in their Google Meet apps.",
+                    "sub-points": [
+                        "If you're just calling one person, press the  or  button to start the call.",
+                        "You're ready to talk about business, work on a group project, or ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Skype",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Add more people to the call (optional).Add PeopleAdd",
+                    "subtitle": " To add more participants to your Skype video chat, press the icon of the three dots at the bottom right corner of the screen. From this menu, choose . Select the contacts you wish to add to the call before clicking  at the bottom of the screen.",
+                    "sub-points": [
+                        "You can have up to 50 people on the same Skype video call."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Facebook Messenger",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Tap the icon of the video camera.",
+                    "subtitle": " Tapping the icon of the video camera at the top of your conversation page will start a video call between every member of that chat.",
+                    "sub-points": [
+                        "Video calls through Facebook Messenger can host up to 50 participants."
+                    ]
+                }
+            ]
+        }
+    ]
+}

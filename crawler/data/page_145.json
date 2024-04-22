@@ -1,0 +1,47 @@
+{
+    "link": "https://www.wikihow.com/Transfer-Photos-from-iPhone-to-PC",
+    "article": "How to Transfer Photos from iPhone to PC: 3 Simple Ways",
+    "intro": "Do you need to move photos from your iPhone to your Windows computer? If you have iTunes, you can easily import photos using Windows' built-in Photos app. You can also manually import photos by using the File Explorer. If you don't want to connect your device to your computer via wires, you can use iCloud to transfer photos over Wi-Fi. This wikiHow will show you how to transfer photos from your iPhone to a Windows PC.",
+    "points": [
+        {
+            "name": "Using the Photos App",
+            "steps": [
+                {
+                    "step": "8",
+                    "title": "Click .",
+                    "subtitle": " This will begin importing the images and videos from the iPhone.",
+                    "sub-points": [
+                        "You can check the box next to \"Delete imported items from Apple iPhone after importing\" if you don't want to keep the original photos or videos on the iPhone."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Using the File Explorer",
+            "steps": []
+        },
+        {
+            "name": "Using iCloud Photo Library",
+            "steps": [
+                {
+                    "step": "11",
+                    "title": "Click the \"Download\" button .",
+                    "subtitle": " This is the cloud-shaped icon with a downward-facing arrow that's in the top-right side of the page. Your photos will download onto your computer.",
+                    "sub-points": [
+                        "You may be asked to choose a destination folder first.",
+                        "Once the download is complete, navigate to the destination folder to find your photos."
+                    ]
+                },
+                {
+                    "step": "11",
+                    "title": "Click the \"Download\" button .",
+                    "subtitle": " This is the cloud-shaped icon with a downward-facing arrow that's in the top-right side of the page. Your photos will download onto your computer.",
+                    "sub-points": [
+                        "You may be asked to choose a destination folder first.",
+                        "Once the download is complete, navigate to the destination folder to find your photos."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "link": "https://www.wikihow.com/Find-Midrange",
+    "article": "How to Calculate Midrange with a Formula or in Excel",
+    "intro": " The midrange is the average of the range of a set of numbers, or the sum of the highest and lowest numbers divided by two. This quick equation can help you estimate the middle point of a set of numbers, similar to the mean or median. However, midrange is more useful for some datasets than others, so keep reading to learn when you should use it versus median.",
+    "points": [
+        {
+            "name": "Finding the Midrange of a Dataset",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Take the average of the highest and lowest values.",
+                    "subtitle": " To get the midrange, add the lowest and highest values together and divide them by two. Midrange describes the central tendency across a spread of numbers and divides the range (or the boundaries of the set) in two.",
+                    "sub-points": [
+                        "So, for the dataset 10, 45, 13, 70, 55, and 40, the midrange is 40."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Finding Midrange on Excel",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Add the highest and lowest values and use “/” to divide them by two.",
+                    "subtitle": " In another cell, add an equal sign and open parenthesis, then click on the cell where you found the minimum. Press “+”, then click on the cell where you found the maximum, and close the parenthesis. Type “/2,” then press enter to divide them by two.",
+                    "sub-points": [
+                        "If your minimum value was in C1 and your maximum in C2, then the equation would look like =(C1+C2)/2.",
+                        "Alternatively, you can use the average of the maximum and minimum (which is the same thing as adding them together and dividing by 2) to find the midrange."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Add the highest and lowest values and use “/” to divide them by two.",
+                    "subtitle": " In another cell, add an equal sign and open parenthesis, then click on the cell where you found the minimum. Press “+”, then click on the cell where you found the maximum, and close the parenthesis. Type “/2,” then press enter to divide them by two.",
+                    "sub-points": [
+                        "If your minimum value was in C1 and your maximum in C2, then the equation would look like =(C1+C2)/2.",
+                        "Alternatively, you can use the average of the maximum and minimum (which is the same thing as adding them together and dividing by 2) to find the midrange."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Midrange Versus Median",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Use the median to find the middle value of a set.",
+                    "subtitle": " While the midrange marks a  within a set (the middle point), the median is the actual middle , so it’s more helpful for sets with outliers.",
+                    "sub-points": [
+                        "While the median may not be in the exact middle of a range, it can more accurately represent the middle of the data, since an equal amount of data points are on each side of it.",
+                        " by listing the numbers from lowest to highest and finding the middle value. If there are an even number of values, take the average of the middle two.",
+                        "Looking at the second set of test scores again—100, 86, 90, 77, 85, 91, 10—you can get a better idea of the middle of where people are scoring by taking the median instead of the midrange. In this case, the median is 86, while the midrange is 55.In the first set of data (that doesn’t have the outlier score “10”) the median and the midrange are almost exactly the same, 88 and 88.5."
+                    ]
+                },
+                {
+                    "step": "2",
+                    "title": "Use the median to find the middle value of a set.",
+                    "subtitle": " While the midrange marks a  within a set (the middle point), the median is the actual middle , so it’s more helpful for sets with outliers.",
+                    "sub-points": [
+                        "While the median may not be in the exact middle of a range, it can more accurately represent the middle of the data, since an equal amount of data points are on each side of it.",
+                        " by listing the numbers from lowest to highest and finding the middle value. If there are an even number of values, take the average of the middle two.",
+                        "Looking at the second set of test scores again—100, 86, 90, 77, 85, 91, 10—you can get a better idea of the middle of where people are scoring by taking the median instead of the midrange. In this case, the median is 86, while the midrange is 55.In the first set of data (that doesn’t have the outlier score “10”) the median and the midrange are almost exactly the same, 88 and 88.5."
+                    ]
+                },
+                {
+                    "step": "2",
+                    "title": "Use the median to find the middle value of a set.",
+                    "subtitle": " While the midrange marks a  within a set (the middle point), the median is the actual middle , so it’s more helpful for sets with outliers.",
+                    "sub-points": [
+                        "While the median may not be in the exact middle of a range, it can more accurately represent the middle of the data, since an equal amount of data points are on each side of it.",
+                        " by listing the numbers from lowest to highest and finding the middle value. If there are an even number of values, take the average of the middle two.",
+                        "Looking at the second set of test scores again—100, 86, 90, 77, 85, 91, 10—you can get a better idea of the middle of where people are scoring by taking the median instead of the midrange. In this case, the median is 86, while the midrange is 55.In the first set of data (that doesn’t have the outlier score “10”) the median and the midrange are almost exactly the same, 88 and 88.5."
+                    ]
+                }
+            ]
+        }
+    ]
+}

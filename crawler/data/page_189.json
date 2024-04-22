@@ -1,0 +1,28 @@
+{
+    "link": "https://www.wikihow.com/Delete-Application-Data-in-iOS",
+    "article": "How to Delete Application Data on iOS: 3 Easy Ways",
+    "intro": " Are you running out of space on your iPhone or iPad? Deleting app data, such as your Spotify downloads or ",
+    "points": [
+        {
+            "name": "Deleting App Data in iCloud",
+            "steps": [
+                {
+                    "step": "7",
+                    "title": "Tap  to confirm.",
+                    "subtitle": " The selected data is now removed from iCloud and your iPhone/iPad, as well as other synced devices.",
+                    "sub-points": [
+                        "If you don't want the app to store data in iCloud anymore, tap the back button until you've returned to the iCloud screen, and then tap the switch next to an app to turn it off."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Deleting an App and Its Data",
+            "steps": []
+        },
+        {
+            "name": "Deleting Safari Browsing Data",
+            "steps": []
+        }
+    ]
+}

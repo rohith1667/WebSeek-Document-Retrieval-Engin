@@ -1,0 +1,51 @@
+{
+    "link": "https://www.wikihow.com/Block-a-Number-on-the-iPhone",
+    "article": "4 Simple Ways to Block a Phone Number or Contact on iPhone",
+    "intro": "Do you need to block incoming calls or messages from a phone number you don't know? If you suspect you're being contacted by a spam number, or if you no longer want to speak to someone specific, you can easily block their number in a few simple steps. You can block numbers or contacts in your Settings, the Phone app, and even the Messages app. This wikiHow will show you how to block and prevent unwanted phone calls or messages from a phone number on your iPhone.",
+    "points": [
+        {
+            "name": "Blocking from Recent Calls",
+            "steps": []
+        },
+        {
+            "name": "Blocking from Messages",
+            "steps": []
+        },
+        {
+            "name": "Adding Contacts to Block List",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Tap the contact you want to block.",
+                    "subtitle": " They will be added to the block list.",
+                    "sub-points": [
+                        "To block another number, tap  again and select a new contact.",
+                        "To unblock a number, tap  in the top-right corner → tap the red minus sign → tap ."
+                    ]
+                },
+                {
+                    "step": "5",
+                    "title": "Tap the contact you want to block.",
+                    "subtitle": " They will be added to the block list.",
+                    "sub-points": [
+                        "To block another number, tap  again and select a new contact.",
+                        "To unblock a number, tap  in the top-right corner → tap the red minus sign → tap ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unblocking Numbers",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Tap the red minus icon, then tap .",
+                    "subtitle": " The phone number will be unblocked on your iPhone.",
+                    "sub-points": [
+                        "The phone number will be able to  and send messages to your iPhone."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "link": "https://www.wikihow.com/Hard-Reset-an-iPhone",
+    "article": "How to Hard Reset an iPhone",
+    "intro": "Is your iPhone unresponsive? Performing a ",
+    "points": [
+        {
+            "name": "Force-Restarting an iPhone 8 and Later",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Release your finger once the Apple logo appears.",
+                    "subtitle": " This should force-restart your unresponsive iPhone.",
+                    "sub-points": [
+                        "If your iPhone still won't restart, try charging it for an hour and then trying again. If you still can't restart your iPhone, see ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Force-Restarting an iPhone 7 or 7 Plus",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Release the buttons when you see the Apple logo.",
+                    "subtitle": " If the  was successful, your iPhone will restart normally.",
+                    "sub-points": [
+                        "If your iPhone still won't restart, try charging it for an hour and then trying again. If you still can't restart your iPhone, see ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Force-Restarting an iPhone 6, 6s Plus, or iPhone SE (1st Generation)",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Release the buttons when the Apple logo appears.",
+                    "subtitle": " Your iPhone should restart normally if the reset was successful.  ",
+                    "sub-points": [
+                        "If your iPhone still won't restart, try charging it for an hour and then trying again. If you still can't restart your iPhone, see ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fixing an iPhone that Won't Force-Restart",
+            "steps": []
+        }
+    ]
+}

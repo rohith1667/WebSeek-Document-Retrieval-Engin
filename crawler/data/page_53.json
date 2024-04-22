@@ -1,0 +1,66 @@
+{
+    "link": "https://www.wikihow.com/Calculate-Osmolarity",
+    "article": "How to Find the Osmolarity of Any Solute or Solution",
+    "intro": "Nurses, doctors, and other professionals in health fields use osmolarity to figure out the levels of glucose, sodium chloride, and other particles in blood, urine, and other solutions. To calculate the osmolarity of a solution, the first step is to convert the number to moles per liter. Convert that number to osmoles per liter and add the osmolarity of each particle together to get the solution's osmolarity. Keep reading to learn how to solve any osmolarity problem in just a few simple steps.",
+    "points": [
+        {
+            "name": "What is the formula for Osmolarity?",
+            "steps": [
+                {
+                    "step": "None",
+                    "title": "Osmolarity is the number of particles divided by the liters of a solution.",
+                    "subtitle": " Osmolarity is the number of osmoles (or milliosmoles), or the concentration of all the ions, in 1 liter of a solution. To calculate the osmolarity of a solution with 1 solute, convert the data given to Osmol/L using this basic formula:",
+                    "sub-points": [
+                        "Osmolarity = (value given) x (molarity of solute) x (# of particles dissociated from solute)This formula can also be written as: mOsmol/L = (weight of substance (g/L) / molecular weight of substance (AMU or g)) x (# of particles dissociated) x 1000",
+                        "To calculate the osmolarity of blood, use the equation: Osmolarity = (Sodium x 2) + (Glucose / 18) + (BUN / 2.8)."
+                    ]
+                },
+                {
+                    "step": "None",
+                    "title": "Osmolarity is the number of particles divided by the liters of a solution.",
+                    "subtitle": " Osmolarity is the number of osmoles (or milliosmoles), or the concentration of all the ions, in 1 liter of a solution. To calculate the osmolarity of a solution with 1 solute, convert the data given to Osmol/L using this basic formula:",
+                    "sub-points": [
+                        "Osmolarity = (value given) x (molarity of solute) x (# of particles dissociated from solute)This formula can also be written as: mOsmol/L = (weight of substance (g/L) / molecular weight of substance (AMU or g)) x (# of particles dissociated) x 1000",
+                        "To calculate the osmolarity of blood, use the equation: Osmolarity = (Sodium x 2) + (Glucose / 18) + (BUN / 2.8)."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Calculating the Osmolarity of a Solute",
+            "steps": [
+                {
+                    "step": "2",
+                    "title": "Divide the value of glucose in grams by 180 to get its osmolarity.",
+                    "subtitle": " When you add together the atomic weight of each particle in glucose (C6, H12, and O6), you get 180 atomic mass units (AMU). When you’re given the value of glucose in grams, you can divide it by 180 to get the value in moles, which can then be converted to osmoles.",
+                    "sub-points": [
+                        " Given: Glucose = 900 mg/L.  Glucose is C6H12O6. To get the atomic weight (AMU) of the entire molecule, multiply each particle’s coefficient by its atomic weight on the periodic table.  (6 x 12) + (12 x 1) + (6 x 16) = 180 AMU.  1 mol glucose = 180 grams.  1 mmol glucose = 180 mg.  (900 mg / 1 L) x (1 mmol / 180 mg) = 5 mmol / L.  5 mmol / 1 L x (1000 mmol / 1 mol) x (1 mol / 1 Osm) = 0.005 Osm/L Glucose.",
+                        " Given: Glucose = 238 mg / 100 mL.  238 mg x (1 mg / 1000 g) = 0.238 g.  (0.238 g / 100 mL) x (1000 mL / 1 L) x (1 mol / 180 g) x (1 Osm / 1 mol) = 0.0132 Osm/L."
+                    ]
+                },
+                {
+                    "step": "2",
+                    "title": "Divide the value of glucose in grams by 180 to get its osmolarity.",
+                    "subtitle": " When you add together the atomic weight of each particle in glucose (C6, H12, and O6), you get 180 atomic mass units (AMU). When you’re given the value of glucose in grams, you can divide it by 180 to get the value in moles, which can then be converted to osmoles.",
+                    "sub-points": [
+                        " Given: Glucose = 900 mg/L.  Glucose is C6H12O6. To get the atomic weight (AMU) of the entire molecule, multiply each particle’s coefficient by its atomic weight on the periodic table.  (6 x 12) + (12 x 1) + (6 x 16) = 180 AMU.  1 mol glucose = 180 grams.  1 mmol glucose = 180 mg.  (900 mg / 1 L) x (1 mmol / 180 mg) = 5 mmol / L.  5 mmol / 1 L x (1000 mmol / 1 mol) x (1 mol / 1 Osm) = 0.005 Osm/L Glucose.",
+                        " Given: Glucose = 238 mg / 100 mL.  238 mg x (1 mg / 1000 g) = 0.238 g.  (0.238 g / 100 mL) x (1000 mL / 1 L) x (1 mol / 180 g) x (1 Osm / 1 mol) = 0.0132 Osm/L."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Calculating the Total Osmolarity of Plasma & Other Solutions",
+            "steps": [
+                {
+                    "step": "None",
+                    "title": "Convert the value of each solute to osmoles, then add them together.",
+                    "subtitle": " When calculating the total osmolarity of plasma (centrifuged from blood) or other solutions, convert each value given to osmoles per liter (Osm/L). Once each value is in Osm/L, add them all together to get the osmolarity of the entire solution.",
+                    "sub-points": [
+                        " [Na+] = 0.320 mol/L; Glucose = 0.463 mg/mL; BUN (Blood Urea Nitrogen) = 0.15 mg/mL = (0.320 mol / 1 L) x (2 Osmol / 1 mol) = 0.640 Osmol/L [Na+]. = (0.0463 mg / 1 mL) x (1000 mL / 1 L) x (1 g / 1000 mg) x (1 mol / 180 g) x (1 Osmol / 1 mol) = 2.42 Osmol/L glucose. = (0.15 mg / 1 mL) x (1000 mL / 1 L) x (1 g / 1000 mg) x (1 mol / 28 g) x 1 Osmol / 1 mol) = 0.00536 Osmol/L BUN.BUN only focuses on the 2 nitrogen in the CH4N20 molecule. Since the AMU of nitrogen is 14 g, the AMU of BUN is 28 g. = (0.640 Osmol/L [Na+]) + (2.42 Osmol/L glucose) + (0.00536 Osmol/L BUN) = 3.065 Osmol/L or 3065.36 mOsmol/L."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "link": "https://www.wikihow.com/Print-from-Your-iPhone",
+    "article": "2 Simple Ways to Print Photos and Documents from an iPhone",
+    "intro": "Do you have photos or documents you need to print from your iPhone? If you have an AirPrint-enabled printer, you'll just need to connect both to the same Wi-Fi network. You can also download a printing app from HP, Canon, Epson, or another printer. Here's how to print from your iPhone with an AirPrint-enabled printer.",
+    "points": [
+        {
+            "name": "Using AirPrint",
+            "steps": [
+                {
+                    "step": "9",
+                    "title": "Tap .",
+                    "subtitle": " This is in the top-right corner. The file will begin to print from your iPhone.",
+                    "sub-points": [
+                        "To view your print job, swipe up or double-press the Home button to open the App Switcher. Navigate to the Print Center app.",
+                        "To cancel a print job, tap it in the Print Order list. Then, tap ."
+                    ]
+                },
+                {
+                    "step": "9",
+                    "title": "Tap .",
+                    "subtitle": " This is in the top-right corner. The file will begin to print from your iPhone.",
+                    "sub-points": [
+                        "To view your print job, swipe up or double-press the Home button to open the App Switcher. Navigate to the Print Center app.",
+                        "To cancel a print job, tap it in the Print Order list. Then, tap ."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Using a Printing App",
+            "steps": []
+        },
+        {
+            "name": "Troubleshooting ",
+            "steps": [
+                {
+                    "step": "3",
+                    "title": "Update your iPhone.",
+                    "subtitle": " If you're running an older version of iOS, you may have trouble connecting via AirPrint or Bluetooth. To :",
+                    "sub-points": [
+                        "Go to .",
+                        "Tap .",
+                        "Tap .",
+                        "Tap ."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Update your iPhone.",
+                    "subtitle": " If you're running an older version of iOS, you may have trouble connecting via AirPrint or Bluetooth. To :",
+                    "sub-points": [
+                        "Go to .",
+                        "Tap .",
+                        "Tap .",
+                        "Tap ."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Update your iPhone.",
+                    "subtitle": " If you're running an older version of iOS, you may have trouble connecting via AirPrint or Bluetooth. To :",
+                    "sub-points": [
+                        "Go to .",
+                        "Tap .",
+                        "Tap .",
+                        "Tap ."
+                    ]
+                },
+                {
+                    "step": "3",
+                    "title": "Update your iPhone.",
+                    "subtitle": " If you're running an older version of iOS, you may have trouble connecting via AirPrint or Bluetooth. To :",
+                    "sub-points": [
+                        "Go to .",
+                        "Tap .",
+                        "Tap .",
+                        "Tap ."
+                    ]
+                }
+            ]
+        }
+    ]
+}

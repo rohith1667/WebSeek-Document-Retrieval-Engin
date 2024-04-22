@@ -1,0 +1,43 @@
+{
+    "link": "https://www.wikihow.com/Automatically-Forward-Text-Messages-to-Another-Phone",
+    "article": "How to Automatically Forward Text Messages to Another Phone",
+    "intro": "Would you like to automatically forward text messages to another phone from your iPhone or Android? It might be a good idea if you own both a personal and a work phone, for example. Unfortunately, automatically forwarding SMS messages from an iOS to a non-iOS device is not possible. However, Apple makes it easy to forward both SMS and iMessages from your iPhone to other iOS devices. Android users can also automatically forward messages with ease. This wikiHow guide will teach you how to automatically forward all incoming text messages from your Android or iPhone to another device.",
+    "points": [
+        {
+            "name": "Forward from iPhone to iPhone",
+            "steps": [
+                {
+                    "step": "4",
+                    "title": "Enter the verification code from each device on your iPhone.",
+                    "subtitle": " Unless your other phones are using multi-factor authentication, they will display a verification code that needs to be entered on your iPhone. Verify each device to start forwarding your texts!",
+                    "sub-points": [
+                        "You can send and receive SMS/MMS messages from any of the forwarded devices, as long as your original iPhone is powered on and connected to Wi-Fi or a mobile network.",
+                        "iPhones cannot automatically forward text messages to non-iOS devices, but this wikiHow guide can help you do so manually."
+                    ]
+                },
+                {
+                    "step": "4",
+                    "title": "Enter the verification code from each device on your iPhone.",
+                    "subtitle": " Unless your other phones are using multi-factor authentication, they will display a verification code that needs to be entered on your iPhone. Verify each device to start forwarding your texts!",
+                    "sub-points": [
+                        "You can send and receive SMS/MMS messages from any of the forwarded devices, as long as your original iPhone is powered on and connected to Wi-Fi or a mobile network.",
+                        "iPhones cannot automatically forward text messages to non-iOS devices, but this wikiHow guide can help you do so manually."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Forward from Android",
+            "steps": [
+                {
+                    "step": "5",
+                    "title": "Complete the setup.",
+                    "subtitle": " Adjust any further settings as you wish, and finalize your setup. Your Android should now automatically forward incoming messages to the phone numbers you provided.",
+                    "sub-points": [
+                        "Consider asking a friend or coworker to send you a text as a test of your new SMS Forwarder setup."
+                    ]
+                }
+            ]
+        }
+    ]
+}
