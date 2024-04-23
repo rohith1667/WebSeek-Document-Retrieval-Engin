@@ -145,6 +145,10 @@ We have successfully developed a web document retrieval system utilizing Python,
 
 -- Camilla8Camilla8 & J. DoeJ. Doe (1963, December 1). Python tf IDF algorithm. Stack Overflow. [https://stackoverflow.com/questions/49277926/python-tf-idf-algorithm](https://stackoverflow.com/questions/49277926/python-tf-idf-algorithm)
 
+-- S. Irfan and S. Ghosh, "Ranking Web Pages Using Cosine Similarity Measure," 2019 International Conference on Computing, Power and Communication Technologies (GUCON), New Delhi, India, 2019, pp. 867-870. [Online]. Available: DOI.
+
+-- K. Mahmoud, H. Ismail, and M. Kholief, "ROEF: A Smart Search Engine of the 3rd Generation World Wide Web (WWW)," 2015 25th International Conference on Computer Theory and Applications (ICCTA), Alexandria, Egypt, 2015, pp. 118-125. [Online]. Available: DOI.
+
 
 -- NiceGUI. (n.d.). [https://nicegui.io/](https://nicegui.io/)
 
