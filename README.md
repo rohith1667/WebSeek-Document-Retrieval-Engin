@@ -87,6 +87,8 @@ Here's the procedural flow from retrieving the code from Git to executing the sy
    - Visit the website and click the "Start" button to begin processing web pages.
    - Once processing is complete, a pickle file named processed_data.pkl is created to store the processed pages.
    - <img width="468" alt="image" src="https://github.com/rohith1667/Information-retrieval_final/assets/143306794/146a47db-6b81-46f5-8f38-9a7a7debd935">
+   -<img width="1432" alt="Screenshot 2024-04-22 at 9 26 14 PM" src="https://github.com/rohith1667/Information-retrieval_final/assets/143306794/70c0bff5-128d-4dec-96ae-76c9b7981146">
+
 
      
 5. **Submit Queries**:
