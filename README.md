@@ -1,7 +1,7 @@
 # INFORMATION RETRIEVAL FINAL PROJECT
 
-**Student:** Rohith  
-**ID:** A20554359  
+Rohith  
+A20554359  
 
 ## Abstract
 This project aims to develop a web document retrieval system using Python, Scikit-Learn, Scrapy, and Flask. It consists of a Scrapy-based crawler for downloading web documents, a Scikit-Learn-based indexer for constructing an inverted index, and a Flask-based processor for handling free text queries. The objectives include efficient web crawling, accurate document indexing, and fast query processing. The next steps involve enhancing the system with features such as distributed crawling and semantic search capabilities.
@@ -108,6 +108,8 @@ We have successfully developed a web document retrieval system utilizing Python,
   
 - **Storage Optimization**: By storing processed pages in a pickle file (processed_data.pkl), we optimize resource usage and reduce the need to reload pages.
 # Data Sources
+- wikiHow. (n.d.). [https://www.wikihow.com/Main-Page](https://www.wikihow.com/Main-Page)
+
 
 
 # Source Code
@@ -127,12 +129,18 @@ We have successfully developed a web document retrieval system utilizing Python,
 
 # References
 
-- Scrapy documentation: [https://docs.scrapy.org/en/latest/](https://docs.scrapy.org/en/latest/)
-- Scikit-Learn documentation: [https://scikit-learn.org/stable/documentation.html](https://scikit-learn.org/stable/documentation.html)
-- Flask documentation: [https://flask.palletsprojects.com/en/2.0.x/](https://flask.palletsprojects.com/en/2.0.x/)
-- NiceGUI documentation: [https://nicegui.io/docs/](https://nicegui.io/docs/)
-- NLTK documentation: [https://www.nltk.org](https://www.nltk.org/)
-- WordNet documentation: [https://wordnet.princeton.edu/](https://wordnet.princeton.edu/)
+
+-- Bajo, A. (2023, January 5). Web crawling with python. ScrapingBee. [https://www.scrapingbee.com/blog/crawling-python/](https://www.scrapingbee.com/blog/crawling-python/)
+
+-- Camilla8Camilla8 & J. DoeJ. Doe (1963, December 1). Python tf IDF algorithm. Stack Overflow. [https://stackoverflow.com/questions/49277926/python-tf-idf-algorithm](https://stackoverflow.com/questions/49277926/python-tf-idf-algorithm)
+
+
+-- NiceGUI. (n.d.). [https://nicegui.io/](https://nicegui.io/)
+
+-- wikiHow. (n.d.). [https://www.wikihow.com/Main-Page](https://www.wikihow.com/Main-Page)
+
+
+
 
 
 
