@@ -138,9 +138,3 @@ We have successfully developed a web document retrieval system utilizing Python,
 -- NiceGUI. (n.d.). [https://nicegui.io/](https://nicegui.io/)
 
 -- wikiHow. (n.d.). [https://www.wikihow.com/Main-Page](https://www.wikihow.com/Main-Page)
-
-
-
-
-
-
