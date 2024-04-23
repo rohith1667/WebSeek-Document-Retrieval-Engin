@@ -94,7 +94,14 @@ Here's the procedural flow from retrieving the code from Git to executing the sy
 5. **Submit Queries**:
    - Use the search bar to submit queries.
    - The system retrieves top-ranked results based on relevance scores.
+   - search results for query 'iphone'
    - <img width="468" alt="image" src="https://github.com/rohith1667/Information-retrieval_final/assets/143306794/c5a93643-8e41-4f2f-a2ef-7025177c7326">
+   - search results for query 'man'
+   - <img width="1431" alt="Screenshot 2024-04-22 at 10 14 30 PM" src="https://github.com/rohith1667/Information-retrieval_final/assets/143306794/e38342e1-afb4-449c-855d-25cd5e823dcd">
+   - search results for query 'protein'
+   - <img width="1428" alt="Screenshot 2024-04-22 at 10 19 27 PM" src="https://github.com/rohith1667/Information-retrieval_final/assets/143306794/08b1145a-8293-44cf-a6fc-e08a47846ff2">
+
+
 
 
 
@@ -130,6 +137,8 @@ We have successfully developed a web document retrieval system utilizing Python,
 
 
 # References
+
+- (PDF) web crawler research methodology. (n.d.-b). [https://www.researchgate.net/publication/254460232_Web_crawler_research_methodology](https://www.researchgate.net/publication/254460232_Web_crawler_research_methodology)
 
 
 -- Bajo, A. (2023, January 5). Web crawling with python. ScrapingBee. [https://www.scrapingbee.com/blog/crawling-python/](https://www.scrapingbee.com/blog/crawling-python/)
